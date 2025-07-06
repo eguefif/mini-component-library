@@ -30,7 +30,14 @@ const ProgressBar = ({ value, size }) => {
     }
 
      return (
-         <Wrapper role="progressBar" aria-valuetext={value} >
+         <Wrapper 
+         role="progressBar" 
+         aria-valuetext={value} 
+         aria-valuenow={value} 
+         aria-valuemin="0" 
+         aria-valuemax="100" 
+         >
+            {value}%
             <Inner value={value} />
         </Wrapper>
      );
