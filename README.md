@@ -67,6 +67,7 @@ This component uses a **box shadow**. We haven't seen this property yet! For now
 box-shadow: inset 0px 2px 4px ${COLORS.transparentGray35};
 ```
 
+
 We'll learn much more about the `box-shadow` property in future modules =)
 
 ### Select
@@ -98,3 +99,5 @@ This component also uses the `Icon` component — the specific ID will be provid
 
 This component requires bold text. You can achieve this look by using `font-weight: 700`.
 A modif one
+
+MODIF 2
