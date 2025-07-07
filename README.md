@@ -97,3 +97,4 @@ This component also includes a function, `getDisplayedValue`. This component use
 This component also uses the `Icon` component — the specific ID will be provided as a prop.
 
 This component requires bold text. You can achieve this look by using `font-weight: 700`.
+A modif one
